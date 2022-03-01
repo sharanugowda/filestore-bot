@@ -8,7 +8,7 @@
         "bot"
     ],
     "repository": "https://github.com/sharanugowda/PyroFilesStoreBot",
-    "website": "https://telegram.me/SB_SERIALS",
+    "website": "",
     "success_url": "https://telegram.me/SB_SERIALS",
     "env": {
         "API_ID": {
